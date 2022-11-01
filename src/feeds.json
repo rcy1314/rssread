@@ -1,28 +1,7 @@
 {
-  "dailies": [
-    "https://hnrss.org/frontpage?points=10&comments=5&count=35",
-    "https://hnrss.org/best?count=35",
-    "https://retronauts.com/feed/rss",
-    "https://terrysfreegameoftheweek.com/feed/",
-    "https://fasterthanli.me/index.xml",
-    "https://lexi-lambda.github.io/feeds/all.rss.xml",
-    "https://increment.com/feed.xml",
-    "https://merelycurious.me/feed.xml",
-    "http://journal.stuffwithstuff.com/rss.xml",
-    "https://blog.skialbainn.com/rss",
-    "https://handmade.network/podcast/podcast.xml",
-    "https://nickjanetakis.com/atom.xml",
-    "https://danluu.com/atom.xml",
-    "https://egonelbre.com/index.xml"
-  ],
-  "videogames": [
-    "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
-    "https://reddit-top-rss.herokuapp.com/?subreddit=games&score=30&view=rss"
-  ],
-  "devlogs": [
-    "https://solarlune.itch.io/masterplan/devlog.rss"
-  ],
-  "misc": [
-    "https://kevinfiol.com/atom.xml"
+  "频道社交": [
+    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frsshub.app%2Ftelegram%2Fchannel%2Fquanshoulu",
+    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frsshub.app%2Ftwitter%2Fuser%2Fliangwenhao3",
+    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Frssfeed.today%2Fweibo%2Frss%2F1688681977",
   ]
 }
