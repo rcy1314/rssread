@@ -1,18 +1,7 @@
 {
   "频道社交": [
-    "https://rsshub.app/telegram/channel/quanshoulu",
-    "https://rsshub.app/twitter/user/liangwenhao3",
-    "https://rssfeed.today/weibo/rss/1688681977",
-  ],
-  "文章公众号": [
-    "https://rsshub.app/wechat/mp/homepage/MzUzODgyNDc5Ng==/16",
-    "https://rsshub.app/zhubai/noise"
-  ],
-  "网站社区": [
-    "https://www.efficiency.vip/atom/discussions"
-    "https://noisevip.cn/feed"
-  ],
-  "misc": [
-    "https://rsshub.app/ncm/playlist/5191170949"
+    "https://www.pilifx.com/feed",
+    "http://www.v2ex.com/feed/share.xml",
+    "http://mydbfx.com/?feed=rss2",
   ]
 }
