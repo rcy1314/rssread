@@ -1,7 +1,18 @@
 {
-  "频道社交": [
-    "https://www.pilifx.com/feed",
-    "http://www.v2ex.com/feed/share.xml",
-    "http://mydbfx.com/?feed=rss2",
+  "dailies": [
+    "https://hnrss.org/frontpage?points=10&comments=5&count=35",
+    "https://rsshub.app/telegram/channel/quanshoulu",
+    "https://rsshub.app/twitter/user/liangwenhao3",
+    "https://rssfeed.today/weibo/rss/1688681977",
+  ],
+  "videogames": [
+    "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
+    "https://reddit-top-rss.herokuapp.com/?subreddit=games&score=30&view=rss"
+  ],
+  "devlogs": [
+    "https://solarlune.itch.io/masterplan/devlog.rss"
+  ],
+  "misc": [
+    "https://kevinfiol.com/atom.xml"
   ]
 }
