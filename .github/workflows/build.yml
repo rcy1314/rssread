@@ -21,7 +21,7 @@ jobs:
           npm install
           npm run build
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: rcy1314/github-pages-deploy-action@4.1.5
         with:
           single-commit: true
           git-config-email: <>
