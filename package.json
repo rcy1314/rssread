@@ -1,0 +1,20 @@
+{
+  "name": "bubo-reader",
+  "version": "1.0.0",
+  "description": "A somewhat dumb but effective feed reader (RSS, JSON & Twitter)",
+  "type": "module",
+  "engines": {
+    "node": ">=12.x"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "author": "kevinfiol",
+  "license": "ISC",
+  "dependencies": {
+    "httpie": "^1.1.2",
+    "rss-parser": "^3.6.3",
+    "yeahjs": "^0.3.0"
+  }
+}
