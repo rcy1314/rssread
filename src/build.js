@@ -24,6 +24,7 @@ const REDIRECTS = {
     'medium': 'scribe.rip',
     'youtube': 'yewtu.be',
     'youtu': 'yewtu.be'
+    'rsshub': 'rsshub.app'
 };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
