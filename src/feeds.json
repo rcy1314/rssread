@@ -1,14 +1,14 @@
 {
-  "频道社交": [
+  "Channel": [
     "https://rsshub.app/telegram/channel/quanshoulu",
     "https://rsshub.app/twitter/user/liangwenhao3",
     "https://rssfeed.today/weibo/rss/1688681977",
   ],
-  "文章公众号": [
+  "Article": [
     "https://rsshub.app/wechat/mp/homepage/MzUzODgyNDc5Ng==/16",
     "https://rsshub.app/zhubai/noise"
   ],
-  "网站社区": [
+  "website": [
     "https://www.efficiency.vip/atom/discussions"
     "https://noisevip.cn/feed"
   ],
