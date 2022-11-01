@@ -1,18 +1,18 @@
 {
-  "dailies": [
-    "https://hnrss.org/frontpage?points=10&comments=5&count=35",
+  "频道社交": [
     "https://rsshub.app/telegram/channel/quanshoulu",
     "https://rsshub.app/twitter/user/liangwenhao3",
     "https://rssfeed.today/weibo/rss/1688681977",
   ],
-  "videogames": [
-    "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
-    "https://reddit-top-rss.herokuapp.com/?subreddit=games&score=30&view=rss"
+  "文章公众号": [
+    "https://rsshub.app/wechat/mp/homepage/MzUzODgyNDc5Ng==/16",
+    "https://rsshub.app/zhubai/noise"
   ],
-  "devlogs": [
-    "https://solarlune.itch.io/masterplan/devlog.rss"
+  "网站社区": [
+    "https://www.efficiency.vip/atom/discussions"
+    "https://noisevip.cn/feed"
   ],
   "misc": [
-    "https://kevinfiol.com/atom.xml"
+    "https://rsshub.app/ncm/playlist/5191170949"
   ]
 }
