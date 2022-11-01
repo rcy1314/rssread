@@ -1,16 +1,14 @@
 {
-  "Channel": [
-    "https://rsshub.app/telegram/channel/quanshoulu",
-    "https://rsshub.app/twitter/user/liangwenhao3",
-    "https://rssfeed.today/weibo/rss/1688681977",
+  "dailies": [
+    "https://hnrss.org/frontpage?points=10&comments=5&count=35",
+
   ],
-  "Article": [
-    "https://rsshub.app/wechat/mp/homepage/MzUzODgyNDc5Ng==/16",
-    "https://rsshub.app/zhubai/noise"
+  "videogames": [
+    "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
+    "https://reddit-top-rss.herokuapp.com/?subreddit=games&score=30&view=rss"
   ],
-  "website": [
-    "https://www.efficiency.vip/atom/discussions"
-    "https://noisevip.cn/feed"
+  "devlogs": [
+    "https://solarlune.itch.io/masterplan/devlog.rss"
   ],
   "misc": [
     "https://rsshub.app/ncm/playlist/5191170949"
