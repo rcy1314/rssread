@@ -1,7 +1,19 @@
 {
   "dailies": [
     "https://hnrss.org/frontpage?points=10&comments=5&count=35",
-
+    "https://hnrss.org/best?count=35",
+    "https://retronauts.com/feed/rss",
+    "https://terrysfreegameoftheweek.com/feed/",
+    "https://fasterthanli.me/index.xml",
+    "https://lexi-lambda.github.io/feeds/all.rss.xml",
+    "https://increment.com/feed.xml",
+    "https://merelycurious.me/feed.xml",
+    "http://journal.stuffwithstuff.com/rss.xml",
+    "https://blog.skialbainn.com/rss",
+    "https://handmade.network/podcast/podcast.xml",
+    "https://nickjanetakis.com/atom.xml",
+    "https://danluu.com/atom.xml",
+    "https://egonelbre.com/index.xml"
   ],
   "videogames": [
     "https://reddit-top-rss.herokuapp.com/?subreddit=gog&score=5&view=rss",
@@ -11,6 +23,6 @@
     "https://solarlune.itch.io/masterplan/devlog.rss"
   ],
   "misc": [
-    "https://rsshub.app/ncm/playlist/5191170949"
+    "https://kevinfiol.com/atom.xml"
   ]
 }
